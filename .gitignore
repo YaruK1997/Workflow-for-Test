@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# 閘門腳本的暫存日誌與報表（依 workflow.md §7.5，不納入版控）
+.scratch/
+*.log
